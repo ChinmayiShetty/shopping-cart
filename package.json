@@ -1,0 +1,24 @@
+{
+  "name": "product-listing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 8000",
+    "build": "next build && next export",
+    "start": "next start",
+    "mock-server": "json-server --watch ./products.json -p 8001"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "js-cookie": "^2.2.1",
+    "next": "^10.0.7",
+    "next-cookies": "^2.0.3",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-use-cart": "^1.11.1"
+  },
+  "devDependencies": {
+    "json-server": "0.16.1"
+  }
+}

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4fba29d-54b1-4392-ad72-42107cf2d3e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-1312823071-1382294788-2358964034-1001/$REJY66H/product-listing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-1312823071-1382294788-2358964034-1001/$RPWI8LI/nextjs-my-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-listing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/_document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/products/[handle].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-cart/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-cart/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-cart/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-cart/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-cart/shopping-cart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiswitch-component/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/../multiswitch-component/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiswitch-component/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiswitch-component/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiswitch-component/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiswitch-component/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiswitch-component/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../multiswitch-component/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiswitch-component/src/MultiSwitch.js" beforeDir="false" afterPath="$PROJECT_DIR$/../multiswitch-component/src/MultiSwitch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiswitch-component/src/ProductComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/../multiswitch-component/src/ProductComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiswitch-component/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../multiswitch-component/src/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="ProjectId" id="1oq8fIQF4wQCfMaPXyHQnMN6f6S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\product-listing\src" />
+      <recent name="D:\product-listing\src\pages\products" />
+      <recent name="D:\product-listing\src\pages" />
+      <recent name="D:\product-listing" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4fba29d-54b1-4392-ad72-42107cf2d3e1" name="Default Changelist" comment="" />
+      <created>1614002862927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614002862927</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
